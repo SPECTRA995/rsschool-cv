@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://spectra995.github.io/rsschool-cv/cv
+https://spectra995.github.io/rsschool-cv/
