@@ -21,7 +21,7 @@ body {
     color: #613f3f;
 }
 
-.container {
+.container, .header {
     max-width: 1440px;
     margin: 0 auto;
 }
